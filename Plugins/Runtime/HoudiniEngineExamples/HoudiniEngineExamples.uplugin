@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HoudiniEngineExamples",
+	"Description": "Houdini Engine Content Examples",
+	"Category": "Other",
+	"CreatedBy": "Side FX",
+	"CreatedByURL": "https://www.sidefx.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
