@@ -4,7 +4,9 @@ This repository contains the Content Examples for the Houdini Engine for Unreal 
 The whole repository contains a sample project for the content examples, but they can also be downloaded as a Content Plugin via the release page.
 
 Version 1.0
+
 Minimum Unreal Version 5.2
+
 Minimum Houdini Version 20.0.594
 
 Documentation: https://www.sidefx.com/docs/houdini/unreal/index.html
