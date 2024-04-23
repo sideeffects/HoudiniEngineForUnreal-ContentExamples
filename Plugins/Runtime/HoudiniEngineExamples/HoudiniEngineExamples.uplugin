@@ -4,14 +4,20 @@
 	"VersionName": "1.0",
 	"FriendlyName": "HoudiniEngineExamples",
 	"Description": "Houdini Engine Content Examples",
-	"Category": "Other",
+	"Category": "Procedural",
 	"CreatedBy": "Side FX",
 	"CreatedByURL": "https://www.sidefx.com/",
-	"DocsURL": "",
+	"DocsURL": "https://www.sidefx.com/docs/houdini/unreal/examplesintro.html",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://www.sidefx.com/bugs/submit/",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		}
+	]
 }
