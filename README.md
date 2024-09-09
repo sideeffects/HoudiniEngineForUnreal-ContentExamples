@@ -118,7 +118,7 @@ Materials
 Geometry Collection (GC)
  - Chaos Geometry Collection Setup
  - Fracturing Basics
- - Splitting and Embedding Meshes in GC Assets
+ - Splitting and Merged Meshes in GC Assets (Similar to GCs embedded feature)
  - Using RBD (Rigid Body Dynamics) from Houdini for GC
  - Spawning GC Actors, ie. Anchors, Fields
 
