@@ -122,6 +122,12 @@ Geometry Collection (GC)
  - Using RBD (Rigid Body Dynamics) from Houdini for GC
  - Spawning GC Actors, ie. Anchors, Fields
 
+PCG
+ - Setup HDA Node
+ - Input types for HDA node. World, Geometry & PCG data
+ - HDA output types. World, Geometry & PCG Data
+ - Workflows with landscapes, PCG Tools, and HDAs procedurally spawning custom PCG graphs
+
 For more information, please visit https://www.sidefx.com/docs/houdini/unreal/index.html
 
 --------------------------------------------
